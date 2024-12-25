@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-1channel&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-1channel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-1channel" alt="ashish-1channel" /></a> </p>
-
+---
 <h1>🛠️ About Me</h1>
 <h2>🔭I’m currently working on:</h2>
 <ul>
@@ -73,6 +72,13 @@
 
 ---
 
+<h2>💬 Ask me about:</h2>
+<p><strong>Angular, Java, SQL, PostgreSQL</strong></p>
+
+<h2>📫 How to reach me:</h2>
+<p><strong>ashish@1Channel.co</strong></p>
+
+---
 <h2>⚡ Fun fact:</h2>
 <p>I started with Struts and vanilla JavaScript but now thrive in the world of Angular and Spring Boot. Solving data-driven challenges keeps me motivated every day.</p>
 
