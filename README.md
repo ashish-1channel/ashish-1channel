@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Rajak</h1>
 <h3 align="center">A passionate software developer specializing in crafting efficient, scalable, and innovative solutions. With a strong background in web development, CRM systems, and data processing, I love working on projects that challenge my problem-solving skills.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-1channel&show_icons=true&locale=en&layout=compact" alt="ashish-1channel" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-1channel&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-1channel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-1channel" alt="ashish-1channel" /></a> </p>
 
